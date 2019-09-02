@@ -1,0 +1,10 @@
+c:\users\e-jgm_000\source\repos\UserManagement\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+c:\users\e-jgm_000\source\repos\UserManagement\DataAccess\bin\Debug\DataAccess.dll.config
+c:\users\e-jgm_000\source\repos\UserManagement\DataAccess\bin\Debug\DataAccess.dll
+c:\users\e-jgm_000\source\repos\UserManagement\DataAccess\bin\Debug\DataAccess.pdb
+c:\users\e-jgm_000\source\repos\UserManagement\DataAccess\bin\Debug\EntityFramework.dll
+c:\users\e-jgm_000\source\repos\UserManagement\DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\e-jgm_000\source\repos\UserManagement\DataAccess\bin\Debug\EntityFramework.xml
+c:\users\e-jgm_000\source\repos\UserManagement\DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\e-jgm_000\source\repos\UserManagement\DataAccess\obj\Debug\DataAccess.dll
+c:\users\e-jgm_000\source\repos\UserManagement\DataAccess\obj\Debug\DataAccess.pdb
